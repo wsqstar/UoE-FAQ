@@ -32,7 +32,7 @@
 		},
         "statistics": {
             "google_id": "G-8Q5KCM42H3"
-          }
+        }
 	},
 	"ignores" : ["_book", "node_modules"]
 }
