@@ -1,8 +1,11 @@
 # UoE-FAQ
 本站链接： https://uoe.geos.page/
 
-本站展示关于学校的一些信息，并无其他用途。
+本站展示关于学校以及爱丁堡的一些信息，并无其他用途。
 本站仅整理相关信息。
+文内无推广。
+欢迎10周语言班同学来~
+[准备工作](./welcome/lookhere.md)
 
 - 想问问题可以在这里提问； https://github.com/wsqstar/geos-gitbook/issues ， 点击new issue。
 - 如何搭建： https://blog.csdn.net/qq_40889820/article/details/110013310 
